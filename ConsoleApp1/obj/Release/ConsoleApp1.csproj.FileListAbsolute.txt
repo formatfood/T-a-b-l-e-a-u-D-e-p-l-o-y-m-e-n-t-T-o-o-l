@@ -1,0 +1,7 @@
+D:\dream11\ExtractDream11DataIntoExcel\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+D:\dream11\ExtractDream11DataIntoExcel\ConsoleApp1\bin\Release\ConsoleApp1.exe
+D:\dream11\ExtractDream11DataIntoExcel\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+D:\dream11\ExtractDream11DataIntoExcel\ConsoleApp1\obj\Release\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\dream11\ExtractDream11DataIntoExcel\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\dream11\ExtractDream11DataIntoExcel\ConsoleApp1\obj\Release\ConsoleApp1.exe
+D:\dream11\ExtractDream11DataIntoExcel\ConsoleApp1\obj\Release\ConsoleApp1.pdb
